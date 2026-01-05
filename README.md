@@ -140,7 +140,8 @@ const JAYASURIYA = {
 
 <div align="center">
   ### 💫 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
 </div>
 
 
