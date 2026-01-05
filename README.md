@@ -106,19 +106,12 @@ const JAYASURIYA = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<!--
-### 📈 GitHub Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyber08jk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber08jk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
--->
+  
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=cyber08jk&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-<!--
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/cyber08jk/blob/output/github-contribution-grid-snake-dark.svg)
--->
+
 ### 📊 Activity Graph
-[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyber08jk&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JAYASURIYA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyber08jk&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
