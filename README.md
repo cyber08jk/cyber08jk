@@ -146,10 +146,6 @@ const JAYASURIYA = {
 ### 💫 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔮 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/cyber08jk?template=classic&config.timezone=Asia%2FKolkata)
-
-</div>
 
 
 ---
