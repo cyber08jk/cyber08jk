@@ -119,24 +119,15 @@ const JAYASURIYA = {
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on **Cloud-Native Applications**
-- 🌱 I'm currently learning **Microservices Architecture & Kubernetes**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, AWS, DevOps**
-- ⚡ Fun fact: **I think I'm funny (but I'm probably not)**
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with FastAPI and Docker](https://your-blog-url.com)
-- [Kubernetes Deployment Strategies Explained](https://your-blog-url.com)
-- [AWS Cost Optimization Tips and Tricks](https://your-blog-url.com)
-<!-- BLOG-POST-LIST:END -->
+- 🚀 Building **AI-Driven Agriculture Platform** & **Secure Cloud Storage**
+- 📚 Learning **Kubernetes, Microservices, & Advanced DevOps (CI/CD Pipelines)**
+- 🤝 Open to collaborate on **MERN Stack Projects, Generative AI Bots, & Open Source DevOps Tools**
+- 💻 Ask me about **React.js, Node.js, AWS/Docker, TensorFlow/LLaMA, Zoho Integrations**
+- 😄 Fun fact: **Built a perfume e-commerce site that could sell scents better than I can describe them!**
 
 
 
----
+
 
 <div align="center">
 
